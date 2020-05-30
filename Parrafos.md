@@ -1,2 +1,3 @@
-Este es el primer parrafo.
-Este es el segundo parrafo.
+Este es el primer párrafo.
+
+Este es el segundo párrafo.
